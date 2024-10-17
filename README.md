@@ -3,7 +3,7 @@
 <!--
 **sjunc/sjunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: what ever i do!
 
 - 🔭 I’m currently working on ...  nothing student
 - 🌱 I’m currently learning ... python / C / HTML / Computer / English / AI
