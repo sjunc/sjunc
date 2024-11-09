@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **sjunc/sjunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: what ever i do!
@@ -13,4 +13,3 @@ Here are some ideas to get you started: what ever i do!
 - 📫 How to reach me: ... github
 - 😄 Pronouns: ... male
 - ⚡ Fun fact: ... that's all truth.
--->
