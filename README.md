@@ -1,15 +1,40 @@
-### Hi there 👋
-
-
-**sjunc/sjunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: what ever i do!
-
-- 🔭 I’m currently working on ...  nothing student
 - 🌱 I’m currently learning ... python / C / HTML / Computer / English / AI
-- 👯 I’m looking to collaborate on ... Anyone
-- 🤔 I’m looking for help with ... What should I do? I am so worried about my future...
-- 💬 Ask me about ... korean? 
-- 📫 How to reach me: ... github
-- 😄 Pronouns: ... male
-- ⚡ Fun fact: ... that's all truth.
+
+
+
+### 😄 Hi there 👋 Welcome to my github
+
+- :🌱school: Learning AI and Coding in dongyang mirae university
+- :👯team: QA
+
+
+<details>
+  <summary><b>Interested In</b></summary>
+  💻Coding
+  🍳Cooking
+  🎨Drawing
+  🧮Reading
+  👁‍🗨Watching
+  🎮Gaming
+
+</details>
+
+
+<details>
+  <summary><b>Learned about</b></summary>
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
+</details>
+
+
+<details>
+  <summary><b>OS & Tools</b></summary>
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+
+</details>
+
