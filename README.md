@@ -48,7 +48,6 @@
   🎮Gaming
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjunc&show_icons=true&locale=en&layout=compact" alt="sjunc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjunc&show_icons=true&locale=en" alt="sjunc" /></p>
 
